@@ -1,0 +1,9 @@
+#tituloprincipal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: red;
+}
+div img{
+    align-self: flex-end;
+}
